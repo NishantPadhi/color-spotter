@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-spotter/static/css/main.3017ca0a.css",
+    "main.js": "/color-spotter/static/js/main.ac163466.js",
+    "index.html": "/color-spotter/index.html",
+    "main.3017ca0a.css.map": "/color-spotter/static/css/main.3017ca0a.css.map",
+    "main.ac163466.js.map": "/color-spotter/static/js/main.ac163466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3017ca0a.css",
+    "static/js/main.ac163466.js"
+  ]
+}
